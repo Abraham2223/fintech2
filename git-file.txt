@@ -12,3 +12,4 @@ Intel CEO Pat Gelsinger said on a call with analysts that the company’s board 
 Intel shares were largely flat at Wednesday’s open after the news.
 
 Gelsinger insisted on the call that both he and the board remained committed to maintaining a competitive yield. Intel’s dividend yield is now 1.9%, based on Tuesday’s closing price, down significantly from its prior yield of 5.6%
+I am adding a new line to the file
